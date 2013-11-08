@@ -17,11 +17,14 @@ Cannot handle smart quotes
 
 Example Usage (Quote indent is the script output)
 
+'''
 [ x**2 for x in range(10) ]
+'''
 > [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
 
-
+'''
 45.67 * 1.085
+'''
 > 49.55195
 
 
