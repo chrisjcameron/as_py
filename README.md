@@ -10,8 +10,9 @@ from the <application> >> Services Toolbar menu. The selected text is replaced b
 the selected text as a python statement. 
 
 Current Limitations:
-Does not work with module imports
-Cannot handle smart quotes
+
+- Does not work with module imports
+- Cannot handle smart quotes
 
 ------------------------------------------------
 
