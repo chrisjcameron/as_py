@@ -17,22 +17,22 @@ Cannot handle smart quotes
 
 Example Usage (Quote indent is the script output)
 
-'''
+```
 [ x**2 for x in range(10) ]
-'''
+```
 > [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
 
-'''
+```
 45.67 * 1.085
-'''
+```
 > 49.55195
 
 
-
+```
 for x in range(10):
     if x > 5: print(x)
     else: print(x**2)
-
+```
 
 > 0  
 > 1  
@@ -45,10 +45,11 @@ for x in range(10):
 > 8  
 > 9  
 
+```
 x = [ 20, 30, 40]
 y = [1, 2, 3]
 print([ str(x)+str(y) for x,y in zip(x,y)])
-
+```
 > ['201', '302', '403']
 
 
