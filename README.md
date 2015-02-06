@@ -11,8 +11,11 @@ the selected text as a python statement.
 
 Current Limitations:
 
-- Does not work with module imports
 - Cannot handle smart quotes
+
+Fixed:
+
+- Module imports work as long as sys is imported last.
 
 ------------------------------------------------
 
